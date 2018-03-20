@@ -9,7 +9,4 @@ MongoDB with net utilities:
 - traceroute
 
 **NOTE**:
-
-- MongoDB version is **3.2**.
 - For more information about MongoDB image, please refer [here](https://hub.docker.com/r/library/mongo/).
-
