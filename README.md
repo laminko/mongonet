@@ -1,12 +1,11 @@
-# Mongonet
+# Mongo**NET**
 
-MongoDB with net utilities:
+Official [mongo](https://hub.docker.com/r/library/mongo/) image + network utilities.
 
-- dnsutils
-- iputils-ping
-- iputils-tracepath
-- net-tools
-- traceroute
+### Preinstalled tools
 
-**NOTE**:
-- For more information about MongoDB image, please refer [here](https://hub.docker.com/r/library/mongo/).
+- [dnsutils](https://packages.debian.org/stretch/dnsutils)
+- [iputils-ping](https://packages.debian.org/stretch/iputils-ping)
+- [iputils-tracepath](https://packages.debian.org/stretch/iputils-tracepath)
+- [net-tools](https://packages.debian.org/stretch/net-tools)
+- [traceroute](https://packages.debian.org/stretch/traceroute)
